@@ -5,7 +5,7 @@ NPM: 2408107010085
 
 1. Clone Repository
 
-git clone https://github.com/KoharuKoval/uaspbw-pengaduan-kampus.git
+git clone https://github.com/keiveenaldiandra/uaspbw-pengaduan-kampus.git
 cd uaspbw-pengaduan-kampus
 
 2. Install Dependency
